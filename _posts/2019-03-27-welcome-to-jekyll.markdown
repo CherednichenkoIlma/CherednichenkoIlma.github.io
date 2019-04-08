@@ -17,7 +17,11 @@ title: "Лабораторная работа №1"
 ```C++
 int main()
 {
-  cout<<"Hello!";
+  for(int i = 0; i < 3; i++)
+  {
+    cout<<"Hello-"<<i;
+    
+  }
   return 0;
 }
 ```
