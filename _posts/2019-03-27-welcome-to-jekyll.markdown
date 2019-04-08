@@ -17,7 +17,7 @@ title: "Лабораторная работа №1"
 ```C++
 int main()
 {
-  cout<<"Hello!"
+  cout<<"Hello!";
   return 0;
 }
 ```
